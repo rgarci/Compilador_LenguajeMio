@@ -1,0 +1,10 @@
+PROGRAMA factorial
+VarX = .
+VarY = &
+REPITE &,| VECES
+ VarY = VarY + .
+ VarX = VarX * VarY
+FINREP
+IMPRIME "Factorial 100:"
+IMPRIME VarX
+FINPROG 

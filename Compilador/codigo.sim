@@ -1,0 +1,3 @@
+IDS = [factorial, VarX, VarY, FINR]
+TXT = ["Factorial 100:"]
+VALS = [1, 0, 100, 1]
